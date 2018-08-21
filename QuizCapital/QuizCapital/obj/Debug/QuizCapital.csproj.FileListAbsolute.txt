@@ -1,0 +1,6 @@
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\bin\Debug\QuizCapital.exe.config
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\bin\Debug\QuizCapital.exe
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\bin\Debug\QuizCapital.pdb
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\obj\Debug\QuizCapital.csprojResolveAssemblyReference.cache
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\obj\Debug\QuizCapital.exe
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\QuizCapital\QuizCapital\obj\Debug\QuizCapital.pdb

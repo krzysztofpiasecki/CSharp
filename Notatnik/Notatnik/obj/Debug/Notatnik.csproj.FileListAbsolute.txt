@@ -1,0 +1,27 @@
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.Cache
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+c:\users\pk\documents\visual studio 2015\Projects\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.csprojResolveAssemblyReference.cache
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Krzysztof\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.Cache
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.csprojResolveAssemblyReference.cache
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.Cache
+C:\Users\Kujawiak11\Desktop\programowanie\Notatnik\Notatnik\obj\Debug\Notatnik.AboutBox1.resources

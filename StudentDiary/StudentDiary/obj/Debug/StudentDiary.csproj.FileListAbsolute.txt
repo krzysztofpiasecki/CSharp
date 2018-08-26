@@ -1,0 +1,6 @@
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\bin\Debug\StudentDiary.exe.config
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\obj\Debug\StudentDiary.csprojResolveAssemblyReference.cache
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\bin\Debug\StudentDiary.exe
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\bin\Debug\StudentDiary.pdb
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\obj\Debug\StudentDiary.exe
+C:\Users\Kujawiak11\Documents\Visual Studio 2015\Projects\StudentDiary\StudentDiary\obj\Debug\StudentDiary.pdb
